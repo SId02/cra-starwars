@@ -1,6 +1,6 @@
 # Starwars
 
- -Using ReactJS ,graphql,Apollo-client with Starwars Api
+ - Using ReactJS ,graphql,Apollo-client with Starwars Api
 
 
 
